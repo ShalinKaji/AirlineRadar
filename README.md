@@ -1,10 +1,12 @@
-Project Overview
-AirFlow is an advanced time series analysis project that utilizes the ARIMA (Autoregressive Integrated Moving Average) model to forecast international air passenger traffic. The project demonstrates the application of sophisticated statistical techniques to real-world data, providing valuable insights for the aviation industry and travel sector1
-.
-Key Components
-Data Preparation and Visualization
-The project begins by loading and preparing the 'AirPassengers' dataset, which contains monthly totals of international airline passengers from 1949 to 1960. The data is visualized using matplotlib to provide an initial understanding of the trends and patterns1
-.
+## **Project Overview:**
+<p> AirFlow is an advanced time series analysis project that utilizes the ARIMA (Autoregressive Integrated Moving Average) model to forecast international air passenger traffic. The project demonstrates the application of sophisticated statistical techniques to real-world data, providing valuable insights for the aviation industry and travel sector. </p>
+
+### *Key Components:*
+<ol>
+<li> **Data Preparation and Visualization:**
+The project begins by loading and preparing the 'AirPassengers' dataset, which contains monthly totals of international airline passengers from 1949 to 1960. The data is visualized using matplotlib to provide an initial understanding of the trends and patterns. </li>
+
+
 Data Splitting
 The dataset is split into training (1949-1957) and testing (1958-1960) sets. This division allows for model training on historical data and evaluation on unseen future data1
 .
