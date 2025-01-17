@@ -1,5 +1,5 @@
 ## **Project Overview:**
-<p> AirFlow is an advanced time series analysis project that utilizes the ARIMA (Autoregressive Integrated Moving Average) model to forecast international air passenger traffic. The project demonstrates the application of sophisticated statistical techniques to real-world data, providing valuable insights for the aviation industry and travel sector. </p>
+<p> AirlineRadar is an advanced time series analysis project that utilizes the ARIMA (Autoregressive Integrated Moving Average) model to forecast international air passenger traffic. The project demonstrates the application of sophisticated statistical techniques to real-world data, providing valuable insights for the aviation industry and travel sector. </p>
 
 ### *Key Components:*
 <ol>
